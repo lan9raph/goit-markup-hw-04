@@ -540,6 +540,7 @@ body {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .logo-contact {
